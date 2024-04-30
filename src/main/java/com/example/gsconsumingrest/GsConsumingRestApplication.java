@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GsConsumingRestApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(GsConsumingRestApplication.class, args);
 	}
 
